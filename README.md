@@ -1,7 +1,7 @@
 # Hi, I'm Samuel Santos 👋
 
 **Principal Systems Engineer | Tech Lead SRE**  
-📍 Rio de Janeiro, Brazil (Open to Global Remote Contracts)  
+📍 Rio de Janeiro, Brazil
 🌐 [Portfolio](https://sabsfilho.github.io/dev)
 
 ---
